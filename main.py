@@ -17,7 +17,6 @@ async def declare():
     message_text = "+++++THOUGHT FOR THE DAY+++++\r\n\r\n"+"+++++THEME:"+quote["topics"][0].upper()+"+++++\r\n\r\n"+quote["text"]
     await dctx.send(message_text)
 
-
 bot = commands.Bot(command_prefix="!40kbot ", case_insensitive=True)
 
 @bot.event
@@ -26,7 +25,6 @@ async def on_ready():
     await bot.change_presence(activity = discord.Activity(
                           type = discord.ActivityType.watching, 
                           name = 'out for Heresy'))
-
 
 @bot.command(name="proverbinatus", 
 brief="Call down righteous Proverbinatus on the Emperors foes",
@@ -43,11 +41,12 @@ help="Continual and RIGHTEOUS Proverbinatus every 24 hours. Only holy Administra
 async def begin_proverbinatus(ctx):
     if (ctx.message.author.guild_permissions.administrator or ctx.message.author.id == inquisitor_id) and ctx.channel.id == channel_id:
         global dctx
-        await ctx.message.reply("Proverbinatus has begun!")
+        await ctx.send("Proverbinatus has begun!")
         time.sleep(2)
         dctx = bot.get_channel(channel_id)
         declare.start()
     else:
         await ctx.message.reply("You are not holy enough to sanction Proverbinatus continually!")
 
+keep_alive()
 bot.run(token)
