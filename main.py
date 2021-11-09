@@ -2,7 +2,6 @@ import os
 import discord
 from discord.ext import commands, tasks
 import time
-from keep_alive import keep_alive
 from quotes import get_quote
 import random
 dctx = None
@@ -48,5 +47,4 @@ async def begin_proverbinatus(ctx):
     else:
         await ctx.message.reply("You are not holy enough to sanction Proverbinatus continually!")
 
-keep_alive()
 bot.run(token)
