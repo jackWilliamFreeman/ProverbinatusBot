@@ -233,32 +233,67 @@ quotes = [{
 {
   "text": "To Know Ian is to Know Hate.",
   "citation": "The Traitor's Hand(novel)",
-  "topics": ["hate"]
+  "topics": ["Ian"]
+},
+{
+  "text": "By the manner of their deaths we shall know them.",
+  "citation": "The Traitor's Hand(novel)",
+  "topics": ["Ian Quotes"]
+},
+{
+  "text": "For the warp is such a dark and terrible place. Better not to let the common man travel amongst the stars; better still, do not let him know such a thing is possible.",
+  "citation": "The Traitor's Hand(novel)",
+  "topics": ["Ian Quotes"]
+},
+{
+  "text": "Russ rules, Magnus drools.",
+  "citation": "The Traitor's Hand(novel)",
+  "topics": ["Ian Quotes"]
+},
+{
+  "text": "The martyr's grave is the keystone of the Imperium.",
+  "citation": "The Traitor's Hand(novel)",
+  "topics": ["Ian Quotes"]
 },
 {
   "text": "To Know Ian is to Know Hate.",
   "citation": "The Traitor's Hand(novel)",
-  "topics": ["hate"]
+  "topics": ["Ian"]
 },
 {
   "text": "To Know Ian is to Know Hate.",
   "citation": "The Traitor's Hand(novel)",
-  "topics": ["hate"]
+  "topics": ["Ian"]
 },
 {
   "text": "To Know Ian is to Know Hate.",
   "citation": "The Traitor's Hand(novel)",
-  "topics": ["hate"]
+  "topics": ["Ian"]
 },
 {
   "text": "To Know Ian is to Know Hate.",
   "citation": "The Traitor's Hand(novel)",
-  "topics": ["hate"]
+  "topics": ["Ian"]
 },
 {
   "text": "To Know Ian is to Know Hate.",
   "citation": "The Traitor's Hand(novel)",
-  "topics": ["hate"]
+  "topics": ["Ian"]
+},
+{
+  "text": "Only the dead know the end of Pendragons Spite lazer.",
+  "citation": "The Traitor's Hand(novel)",
+  "topics": ["spite"]
+},
+{
+  "text": "Only the dead know the end of Pendragons Spite lazer.",
+  "citation": "The Traitor's Hand(novel)",
+  "topics": ["spite"]
+},
+{
+  "text": "Only the dead know the end of Pendragons Spite lazer.",
+  "citation": "The Traitor's Hand(novel)",
+  "topics": ["spite"]
 },
 {
   "text": "The universe is a big place and, whatever happens, you will not be missed...",
