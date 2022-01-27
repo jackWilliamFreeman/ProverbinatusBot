@@ -231,6 +231,36 @@ quotes = [{
   "topics": ["treachery"]
 },
 {
+  "text": "To Know Ian is to Know Hate.",
+  "citation": "The Traitor's Hand(novel)",
+  "topics": ["hate"]
+},
+{
+  "text": "To Know Ian is to Know Hate.",
+  "citation": "The Traitor's Hand(novel)",
+  "topics": ["hate"]
+},
+{
+  "text": "To Know Ian is to Know Hate.",
+  "citation": "The Traitor's Hand(novel)",
+  "topics": ["hate"]
+},
+{
+  "text": "To Know Ian is to Know Hate.",
+  "citation": "The Traitor's Hand(novel)",
+  "topics": ["hate"]
+},
+{
+  "text": "To Know Ian is to Know Hate.",
+  "citation": "The Traitor's Hand(novel)",
+  "topics": ["hate"]
+},
+{
+  "text": "To Know Ian is to Know Hate.",
+  "citation": "The Traitor's Hand(novel)",
+  "topics": ["hate"]
+},
+{
   "text": "The universe is a big place and, whatever happens, you will not be missed...",
   "citation": "Warhammer 40000(5th edition)",
   "topics": ["memories"]
@@ -254,77 +284,6 @@ quotes = [{
   "text": "They who feast today do so in ignorance of their mortality. Tomorrow they must die or change.",
   "citation": "Warhammer 40000(5th edition)",
   "topics": ["death"]
-},
-{
-  "text": "To Know Pain is to Know Ian",
-  "citation": "Warhammer 40000(5th edition)",
-  "topics": ["shame"]
-},
-,
-{
-  "text": "To Know Pain is to Know Ian",
-  "citation": "Warhammer 40000(5th edition)",
-  "topics": ["shame"]
-},
-,
-{
-  "text": "To Know Pain is to Know Ian",
-  "citation": "Warhammer 40000(5th edition)",
-  "topics": ["shame"]
-},
-,
-{
-  "text": "To Know Pain is to Know Ian",
-  "citation": "Warhammer 40000(5th edition)",
-  "topics": ["shame"]
-},
-,
-{
-  "text": "To Know Pain is to Know Ian",
-  "citation": "Warhammer 40000(5th edition)",
-  "topics": ["shame"]
-},
-,
-{
-  "text": "To Know Pain is to Know Ian",
-  "citation": "Warhammer 40000(5th edition)",
-  "topics": ["shame"]
-},
-,
-{
-  "text": "To Know Pain is to Know Ian",
-  "citation": "Warhammer 40000(5th edition)",
-  "topics": ["shame"]
-},
-,
-{
-  "text": "To Know Pain is to Know Ian",
-  "citation": "Warhammer 40000(5th edition)",
-  "topics": ["shame"]
-},
-,
-{
-  "text": "To Know Pain is to Know Ian",
-  "citation": "Warhammer 40000(5th edition)",
-  "topics": ["shame"]
-},
-,
-{
-  "text": "To Know Pain is to Know Ian",
-  "citation": "Warhammer 40000(5th edition)",
-  "topics": ["shame"]
-},
-,
-{
-  "text": "To Know Pain is to Know Ian",
-  "citation": "Warhammer 40000(5th edition)",
-  "topics": ["shame"]
-},
-,
-{
-  "text": "To Know Pain is to Know Ian",
-  "citation": "Warhammer 40000(5th edition)",
-  "topics": ["shame"]
 },
 {
   "text": "Timidity begets indecision; indecision begets treachery.",
