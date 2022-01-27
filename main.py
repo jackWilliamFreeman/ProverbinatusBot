@@ -32,17 +32,8 @@ async def on_ready():
     print(f'{bot.user.name} has connected to discord!')
     await bot.change_presence(activity = discord.Activity(
                           type = discord.ActivityType.watching, 
-                          name = 'out for Heresy'))
+                          name = 'Ian hate art, hate is good'))
     print("heresy detected. starting proverbinatus")
-    await dctx.send("++++++++++++ I HAVE ARRIVED AND IT IS NOW THAT I PERFORM MY CHARGE ++++++++++++")
-    time.sleep(3)
-    await dctx.send("++++++++++++ IN FEALTY TO THE GOD EMPEROR AND BY THE GRACE OF THE GOLDEN THRONE ++++++++++++")
-    time.sleep(3)
-    await dctx.send("++++++++++++ I DECLARE PROVERBINATUS UPON THIS CHANNEL AND ALL SOULS WITHIN ++++++++++++")
-    time.sleep(3)
-    await dctx.send("++++++++++++ MAY IMPERIAL JUSTICE ACCOUNT IN ALL BALANCE ++++++++++++")
-    time.sleep(3)
-    await dctx.send("++++++++++++ THE EMPEROR PROTECTS ++++++++++++")
     declare.start()
 
 bot.run(token) 
