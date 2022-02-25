@@ -236,12 +236,12 @@ quotes = [{
   "topics": ["Ian"]
 },
 {
-  "text": "By the manner of their deaths we shall know them.",
+  "text": "By the manner of their art we shall hate them.",
   "citation": "The Traitor's Hand(novel)",
   "topics": ["Ian Quotes"]
 },
 {
-  "text": "For the warp is such a dark and terrible place. Better not to let the common man travel amongst the stars; better still, do not let him know such a thing is possible.",
+  "text": "Pit quality food is measured best the morning after",
   "citation": "The Traitor's Hand(novel)",
   "topics": ["Ian Quotes"]
 },
@@ -251,7 +251,7 @@ quotes = [{
   "topics": ["Ian Quotes"]
 },
 {
-  "text": "The martyr's grave is the keystone of the Imperium.",
+  "text": "Break a deal spin the wheel",
   "citation": "The Traitor's Hand(novel)",
   "topics": ["Ian Quotes"]
 },
@@ -261,24 +261,34 @@ quotes = [{
   "topics": ["Ian"]
 },
 {
-  "text": "To Know Ian is to Know Hate.",
+  "text": "Pedantry ALWAYS wins.",
   "citation": "The Traitor's Hand(novel)",
-  "topics": ["Ian"]
+  "topics": ["Luke Quotes"]
 },
 {
-  "text": "To Know Ian is to Know Hate.",
+  "text": "Never listen to Aaron while playing a board game.",
   "citation": "The Traitor's Hand(novel)",
-  "topics": ["Ian"]
+  "topics": ["Universal Truth"]
 },
 {
-  "text": "To Know Ian is to Know Hate.",
+  "text": "I'll deep fuck ya sister for a hand full of fiddle faddle",
   "citation": "The Traitor's Hand(novel)",
-  "topics": ["Ian"]
+  "topics": ["Tim's life maxim"]
 },
 {
-  "text": "To Know Ian is to Know Hate.",
+  "text": "Lets just say i know how to use a phone book",
   "citation": "The Traitor's Hand(novel)",
-  "topics": ["Ian"]
+  "topics": ["John quotes"]
+},
+{
+  "text": "**Randomn Drunk noises followed by dropping of pants",
+  "citation": "The Traitor's Hand(novel)",
+  "topics": ["Scott quotes"]
+},
+{
+  "text": "Casual racism is for people who lack commitment",
+  "citation": "The Traitor's Hand(novel)",
+  "topics": ["Jack Quotes"]
 },
 {
   "text": "Only the dead know the end of Pendragons Spite lazer.",
@@ -331,19 +341,19 @@ quotes = [{
   "topics": ["compromise"]
 },
 {
-  "text": "To err is to invite retribution.",
+  "text": "To err is to invite Luke to correct you.",
   "citation": "Warhammer 40000: Rogue Trader",
-  "topics": ["error"]
+  "topics": ["Universal Truth"]
 },
 {
-  "text": "To withdraw in disgust is not apathy.",
+  "text": "To withdraw in disgust is not apathy, its a natural reaction to Art.",
   "citation": "Warhammer 40000(4th edition)",
-  "topics": ["disgust", "apathy"]
+  "topics": ["Ian Quotes"]
 },
 {
-  "text": "Truth begets hatred.",
+  "text": "I Declare myself Space Bureaucrat, prepare for new taxes",
   "citation": "Codex: Black Templars(4th edition)",
-  "topics": ["truth", "hatred"]
+  "topics": ["Pendragon playing TI"]
 },
 {
   "text": "Trying to understand weakens the will to act.",
@@ -351,9 +361,9 @@ quotes = [{
   "topics": ["understanding"]
 },
 {
-  "text": "Victory needs no explanation, defeat allows none.",
+  "text": "Alright who wants to hear a sex story",
   "citation": "Warhammer 40000(3rd edition)",
-  "topics": ["victory", "defeat"]
+  "topics": ["Drunk Topher"]
 },
 {
   "text": "Vigilance is the brother of truth.",
