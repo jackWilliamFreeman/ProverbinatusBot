@@ -9,7 +9,9 @@ import pytz
 
 dctx = None
 token = os.environ['TOKEN']
+#token = os.environ['TEST_TOKEN']
 channel_id= int(os.environ['CHANNEL_ID'])
+#channel_id= int(os.environ['TEST_CHANNEL_ID'])
 
 
 @tasks.loop(hours=1)
