@@ -24,6 +24,14 @@ async def declare():
     if now.hour == 3:
       print("proverbinatus sent")
       await dctx.send(message_text)
+      d1 = dt.datetime(2022,9,29,9,0,0,0,tz)
+      length = d1 - now
+      if length.days > 1:
+        await dctx.send(f"WARNING: {length.days} DAYS UNTIL SFTC")
+      if length.days == 1:
+        await dctx.send("WARNING: TOMORROW IS SFTC")
+      if length.days == 0:
+        await dctx.send("WARNING: TODAY IS SFTC, EMPEROR BE WITH US ALL")
 
 bot = commands.Bot(command_prefix="!40kbot ", case_insensitive=True)
 
@@ -38,4 +46,4 @@ async def on_ready():
     print("heresy detected. starting proverbinatus")
     declare.start()
 
-bot.run(token) 
+bot.run(token)
