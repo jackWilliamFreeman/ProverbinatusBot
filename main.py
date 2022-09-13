@@ -24,7 +24,7 @@ async def declare():
     if now.hour == 3:
       print("proverbinatus sent")
       await dctx.send(message_text)
-      d1 = dt.datetime(2022,9,29,9,0,0,0,tz)
+      d1 = dt(2022,9,29,9,0,0,0,tz)
       length = d1 - now
       if length.days > 1:
         await dctx.send(f"WARNING: {length.days} DAYS UNTIL SFTC")
