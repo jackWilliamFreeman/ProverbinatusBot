@@ -111,7 +111,7 @@ quotes = [{
   "topics": ["Ian Quotes"]
 },
 {
-  "text": "Pit quality food is measured best the morning after",
+  "text": "Surelyness is next to Godliness",
   "citation": "The Traitor's Hand(novel)",
   "topics": ["Ian Quotes"]
 },
@@ -151,9 +151,14 @@ quotes = [{
   "topics": ["John quotes"]
 },
 {
-  "text": "Casual racism is for people who lack commitment",
+  "text": "Who needs super, I'm building a retirement fund with Jetskis",
   "citation": "The Traitor's Hand(novel)",
-  "topics": ["Jack Quotes"]
+  "topics": ["Jack will never retire"]
+},
+{
+  "text": "WE ARE GOING TO THE MOON, WHAT WILL YOU BRING!?",
+  "citation": "The Traitor's Hand(novel)",
+  "topics": ["Group Shame"]
 },
 {
   "text": "Only the dead know the end of Pendragons Spite lazer.",
@@ -161,12 +166,7 @@ quotes = [{
   "topics": ["spite"]
 },
 {
-  "text": "Only the dead know the end of Pendragons Spite lazer.",
-  "citation": "The Traitor's Hand(novel)",
-  "topics": ["spite"]
-},
-{
-  "text": "The universe is a big place and, whatever happens, you will not be missed...",
+  "text": "The universe is a big place and, whatever happens, you will not be missed... Except for Tom Nurse, Hes wholesome",
   "citation": "Warhammer 40000(5th edition)",
   "topics": ["memories"]
 },
@@ -186,9 +186,9 @@ quotes = [{
   "topics": ["answers", "death"]
 },
 {
-  "text": "They who feast today do so in ignorance of their mortality. Tomorrow they must die or change.",
+  "text": "EXTREMELY LOUD EXHALE",
   "citation": "Warhammer 40000(5th edition)",
-  "topics": ["death"]
+  "topics": ["Chris informing you of a poor choice"]
 },
 {
   "text": "I am not *suspicious look* ........ a Cylon?",
@@ -213,7 +213,7 @@ quotes = [{
 {
   "text": "Trying to understand weakens the will to act.",
   "citation": "Codex: Black Templars(4th edition)",
-  "topics": ["understanding"]
+  "topics": ["How to annoy Chris during a boardgame"]
 },
 {
   "text": "Let Me inform you, in detail, about why that was a bad move.",
@@ -231,9 +231,9 @@ quotes = [{
   "topics": ["vigilance", "truth"]
 },
 {
-  "text": "Vigilance is your shield.",
+  "text": "Vigilance is my shield, Simpsons Quotes are my sword.",
   "citation": "Codex: Necrons(3rd edition)",
-  "topics": ["vigilance"]
+  "topics": ["Tims mantra"]
 },
 {
   "text": "You are not required to think, only to act.",
