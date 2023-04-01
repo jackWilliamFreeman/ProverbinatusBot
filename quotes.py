@@ -266,9 +266,9 @@ quotes = [{
   "topics": ["question"]
 },
 {
-  "text": "Accept your lot!",
+  "text": "Accept your lot! Don't accept Aarons advice during a boardgame!",
   "citation": "Warhammer 40000(4th edition)",
-  "topics": ["fortune"]
+  "topics": ["Wisdom"]
 },
 {
   "text": "An empty mind is a loyal mind.",
@@ -286,12 +286,12 @@ quotes = [{
   "topics": ["war"]
 },
 {
-  "text": "Only in death does duty end.",
+  "text": "Only in death does duty end. Only in group shame does we're going to the moon end",
   "citation": "Warhammer 40000(3rd edition)",
   "topics": ["duty"]
 },
 {
-  "text": "Only the insane have strength enough to prosper.",
+  "text": "Only the insane have strength enough to prosper or win against Aaron in a game of drinking chess",
   "citation": "Codex: Space Marines(4th edition)",
   "topics": ["insanity"]
 },
@@ -306,12 +306,12 @@ quotes = [{
   "topics": ["perseverance"]
 },
 {
-  "text": "Only the weak question.",
+  "text": "Only the weak question. Real strength comes from Pedantry",
   "citation": "Imperial Armour IV",
   "topics": ["question"]
 },
 {
-  "text": "True happiness stems only from duty.",
+  "text": "True happiness stems only from duty or winning at Viticulture.",
   "citation": "Warhammer 40000(6th edition)",
   "topics": ["happiness", "duty"]
 },
@@ -326,7 +326,7 @@ quotes = [{
   "topics": ["knowledge"]
 },
 {
-  "text": "To err is human; To err again is treachery.",
+  "text": "To err is human; To err again is treachery",
   "citation": "Warhammer 40000(6th edition)",
   "topics": ["err"]
 },
