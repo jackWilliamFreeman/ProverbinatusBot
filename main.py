@@ -42,7 +42,7 @@ async def on_ready():
     print(f'{bot.user.name} has connected to discord!')
     await bot.change_presence(activity = discord.Activity(
                           type = discord.ActivityType.watching, 
-                          name = 'youtube videos on Slapchop'))
+                          name = 'for Ian storytime updates'))
     print("heresy detected. starting proverbinatus")
     declare.start()
 
