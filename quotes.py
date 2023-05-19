@@ -6,7 +6,7 @@ quotes = [{
   "topics": ["innocence", "guilt"]
 },
 {
-  "text": "Prayer cleanses the soul, but pain cleanses the body.",
+  "text": "Prayer cleanses the soul, pain cleanses the body, 18 hours of TI cleanses the Sanity.",
   "citation": "Warhammer 40000(3rd edition)",
   "topics": ["prayer", "pain"]
 },
@@ -39,11 +39,6 @@ quotes = [{
   "text": "Sorrow awaits the foolhardy. John awaits the minor offenders",
   "citation": "Codex: Armageddon(3rd edition)",
   "topics": ["foolishness"]
-},
-{
-  "text": "The burden of failure is the most terrible punishment of all.",
-  "citation": "Warhammer 40000 4th edition",
-  "topics": ["failure"]
 },
 {
   "text": "The common man is like a worm in the gut of a corpse, trapped inside a prison of cold flesh, helpless and uncaring, unaware even of the inevitability of its own doom.",
@@ -141,16 +136,6 @@ quotes = [{
   "topics": ["Universal Truth"]
 },
 {
-  "text": "I'll deep fuck ya sister for a hand full of fiddle faddle",
-  "citation": "The Traitor's Hand(novel)",
-  "topics": ["Tim's life maxim"]
-},
-{
-  "text": "Lets just say i know how to use a phone book",
-  "citation": "The Traitor's Hand(novel)",
-  "topics": ["John quotes"]
-},
-{
   "text": "Who needs super, I'm building a retirement fund with Jetskis",
   "citation": "The Traitor's Hand(novel)",
   "topics": ["Jack will never retire"]
@@ -219,11 +204,6 @@ quotes = [{
   "text": "Let Me inform you, in detail, about why that was a bad move.",
   "citation": "Codex: Black Templars(4th edition)",
   "topics": ["Pendragon Quotes"]
-},
-{
-  "text": "Alright who wants to hear a sex story?",
-  "citation": "Warhammer 40000(3rd edition)",
-  "topics": ["Drunk Topher"]
 },
 {
   "text": "Vigilance is the brother of truth.",
@@ -301,9 +281,9 @@ quotes = [{
   "topics": ["peace"]
 },
 {
-  "text": "Perseverance and silence are the highest virtues.",
+  "text": "I hate my life, why would anyone enjoy this game.",
   "citation": "Warhammer 40000(4th edition)",
-  "topics": ["perseverance"]
+  "topics": ["what sane people say after playing Warhammer Fantasy"]
 },
 {
   "text": "Only the weak question. Real strength comes from Pedantry",
@@ -319,6 +299,11 @@ quotes = [{
   "text": "It is better for a man to be afraid than happy.",
   "citation": "Warhammer 40000(6th edition)",
   "topics": ["fear", "happiness"]
+},
+{
+  "text": "Viticulture is a good game.",
+  "citation": "Warhammer 40000(6th edition)",
+  "topics": ["things Jack said a million times"]
 },
 {
   "text": "To search for answers is to beat a path to damnation.",
