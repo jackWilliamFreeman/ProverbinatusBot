@@ -9,7 +9,7 @@ import pytz
 from dateutil.relativedelta import relativedelta
 
 
-ENV='dev'
+ENV='prod'
 dctx = None
 bot = None
 if ENV == 'prod':
