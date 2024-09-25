@@ -9,7 +9,7 @@ import pytz
 from dateutil.relativedelta import relativedelta
 
 
-ENV='prod'
+ENV='dev'
 dctx = None
 bot = None
 if ENV == 'prod':
@@ -74,5 +74,6 @@ async def handle_birthdays(dctx):
         embed.set_footer(text=f"In Fealty to our (undying) God Emperor and by the Grace of the Golden Throne\r\nI denounce {person} as an age-heretic and hope that they may return to the Grace of our (undying) Lord and serve Him faithfully\r\nMay Imperial Justice account in all balance.\r\nThe Emperor Protects")
         await dctx.send(embed=embed)
         await dctx.send(f"Now we will commence the sentence: Singing the glorious hymn: **THE CANTICLES OF AGE HERESY REJECTION** in chastisement of convicted age-heretic: {discord_mention_name}.\r\n\r\n{birthdays.get(person).get('video_url')}")
+        await dctx.send(f"+++++++++++++++++Closing Statement++++++++++++++\r\nSuck it Tim.")
 
 bot.run(token)
