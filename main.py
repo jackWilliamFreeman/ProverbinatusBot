@@ -27,10 +27,10 @@ async def declare():
     now=dt.now(tz)
     d1 = dt(2024,11,1,9,0,0,0,tz)
     if now.hour == 3:
-      embed= discord.Embed(title="++++++++THOUGHT OF THE DAY++++++++", type='rich', color=discord.Color.red())
+      embed= discord.Embed(title="+++THOUGHT FOR THE DAY+++", type='rich', color=discord.Color.red())
       embed.set_author(name="Office of the Inquisition (Ordo Proverbinatus)",icon_url="https://www.belloflostsouls.net/wp-content/uploads/2016/09/Inquisition.jpg")
       embed.add_field(inline=False, name=f"{quote['text']}", value= '')
-      embed.add_field(inline=False, name=f"+++++++++THEME+++++++++", value= ', '.join(quote['topics']))
+      embed.add_field(inline=False, name=f"+++++THEME+++++", value= ', '.join(quote['topics']))
       embed.set_footer(text=f"Go about your day with purpose citizen. The Inquisition maintains a vigilant eye for heresy. The Emperor Protects.")
       print("proverbinatus sent")
       await dctx.send(embed=embed)
