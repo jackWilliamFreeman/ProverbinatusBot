@@ -38,6 +38,7 @@ async def declare():
       length = d1 - now
       if length.days > 1:
         await dctx.send(f"WARNING: {length.days} DAYS UNTIL SFTC. LOYAL CITIZENS, PREPARE YOURSELF FOR MIRTH")
+        await dctx.send(f"<@321580905544286209> THIS IS A DAILY REMINDER FOR YOU TO SEND A DAILY REMINDER FOR <@368751796945944577> TO SEND A DAILY REMINDER TO <@550616372120387585> TO BRING GINS OR SOMETHING. EMPEROR HELP ME I USED TO BE A SCHOLAR....")
       if length.days == 1:
         await dctx.send("WARNING: TOMORROW IS SFTC")
       if length.days == 0:

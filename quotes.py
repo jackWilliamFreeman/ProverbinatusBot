@@ -2,54 +2,11 @@ import random
 
 quotes = [
   {
-    "text": "There is no such thing as innocence - only varying degrees of guilt.",
-    "citation": "Codex: Black Templars(4th edition)",
-    "topics": [
-      "INNOCENCE",
-      "GUILT"
-    ]
-  },
-  {
     "text": "Prayer cleanses the soul, pain cleanses the body, 18 hours of TI cleanses the sanity.",
     "citation": "Warhammer 40000(3rd edition)",
     "topics": [
       "PRAYER",
       "PAIN"
-    ]
-  },
-  {
-    "text": "Innocence proves nothing.",
-    "citation": "Codex: Black Templars(4th edition)",
-    "topics": [
-      "INNOCENCE"
-    ]
-  },
-  {
-    "text": "There is nothing to fear but failure.",
-    "citation": "Codex: Black Templars(4th edition)",
-    "topics": [
-      "FAILURE"
-    ]
-  },
-  {
-    "text": "To question is to doubt.",
-    "citation": "Warhammer 40000(4th edition)",
-    "topics": [
-      "QUESTION"
-    ]
-  },
-  {
-    "text": "Reason is the cloak of traitors.",
-    "citation": "Warhammer 40000(4th edition)",
-    "topics": [
-      "REASON"
-    ]
-  },
-  {
-    "text": "Ruthlessness is the kindness of the wise.",
-    "citation": "Warhammer 40000(4th edition)",
-    "topics": [
-      "RUTHLESSNESS"
     ]
   },
   {
@@ -60,13 +17,6 @@ quotes = [
     ]
   },
   {
-    "text": "The common man is like a worm in the gut of a corpse, trapped inside a prison of cold flesh, helpless and uncaring, unaware even of the inevitability of its own doom.",
-    "citation": "Codex: Imperialis",
-    "topics": [
-      "DOOM"
-    ]
-  },
-  {
     "text": "The difference between heresy and treachery is ignorance. For Aaron, the difference between fun and treachery is boardgames.",
     "citation": "Warhammer 40000(3rd edition)",
     "topics": [
@@ -74,67 +24,10 @@ quotes = [
     ]
   },
   {
-    "text": "The dissident invites only retribution.",
-    "citation": "Warhammer 40000(4th edition)",
-    "topics": [
-      "DISSIDENCE"
-    ]
-  },
-  {
-    "text": "The justice of your action is measured by the strength of your conviction.",
-    "citation": "Warhammer 40000(4th edition)",
-    "topics": [
-      "JUSTICE",
-      "CONVICTION"
-    ]
-  },
-  {
     "text": "The keenest blade is righteous pedantry.",
     "citation": "Warhammer 40000(4th edition)",
     "topics": [
       "PENDANTRY"
-    ]
-  },
-  {
-    "text": "The most deviant mind is often concealed in an unblemished body.",
-    "citation": "Warhammer 40000(5th edition)",
-    "topics": [
-      "DEVIANCE"
-    ]
-  },
-  {
-    "text": "The mutant bears his heresy on the outside, the traitor hides it in his soul.",
-    "citation": "Warhammer 40000(3rd edition)",
-    "topics": [
-      "TREACHERY"
-    ]
-  },
-  {
-    "text": "The only reaction to treachery is vengeance.",
-    "citation": "Warhammer 40000(3rd edition)",
-    "topics": [
-      "TREACHERY"
-    ]
-  },
-  {
-    "text": "The road to purity is drenched in the blood of the martyred.",
-    "citation": "Codex: Imperial Guard(3rd edition)",
-    "topics": [
-      "PURITY"
-    ]
-  },
-  {
-    "text": "The seed of heresy rests in the minds of reasonable men.",
-    "citation": "Warhammer 40000(4th edition)",
-    "topics": [
-      "REASON"
-    ]
-  },
-  {
-    "text": "The traitors hand lies closer than you think.",
-    "citation": "The Traitor's Hand(novel)",
-    "topics": [
-      "TREACHERY"
     ]
   },
   {
@@ -146,20 +39,6 @@ quotes = [
   },
   {
     "text": "By the manner of their art we shall hate them.",
-    "citation": "The Traitor's Hand(novel)",
-    "topics": [
-      "IAN QUOTES"
-    ]
-  },
-  {
-    "text": "Surliness is next to Godliness",
-    "citation": "The Traitor's Hand(novel)",
-    "topics": [
-      "IAN QUOTES"
-    ]
-  },
-  {
-    "text": "Magnus did nothing wrong.",
     "citation": "The Traitor's Hand(novel)",
     "topics": [
       "IAN QUOTES"
@@ -187,13 +66,6 @@ quotes = [
     ]
   },
   {
-    "text": "WE ARE GOING TO THE MOON, WHAT WILL YOU BRING!?",
-    "citation": "The Traitor's Hand(novel)",
-    "topics": [
-      "GROUP SHAME"
-    ]
-  },
-  {
     "text": "Only the dead know the end of Pendragons Spite laser.",
     "citation": "The Traitor's Hand(novel)",
     "topics": [
@@ -205,20 +77,6 @@ quotes = [
     "citation": "Warhammer 40000(5th edition)",
     "topics": [
       "MEMORIES"
-    ]
-  },
-  {
-    "text": "The wage of negligence is utter destruction.",
-    "citation": "Codex: Armageddon(3rd edition)",
-    "topics": [
-      "NEGLIGENCE"
-    ]
-  },
-  {
-    "text": "The wise man learns from the deaths of others.",
-    "citation": "Warhammer 40000(3rd edition)",
-    "topics": [
-      "WISDOM"
     ]
   },
   {
@@ -234,13 +92,6 @@ quotes = [
     "citation": "Warhammer 40000(5th edition)",
     "topics": [
       "CHRIS INFORMING YOU OF A POOR CHOICE"
-    ]
-  },
-  {
-    "text": "I am not <looks around suspiciously> ... a Cylon?",
-    "citation": "Warhammer 40000(4th edition)",
-    "topics": [
-      "ARI DEFINITELY BEING A CYLON"
     ]
   },
   {
@@ -265,13 +116,6 @@ quotes = [
     ]
   },
   {
-    "text": "Trying to understand weakens the will to act.",
-    "citation": "Codex: Black Templars(4th edition)",
-    "topics": [
-      "HOW TO ANNOY CHRIS DURING A BOARDGAME"
-    ]
-  },
-  {
     "text": "Let me inform you, in great detail, about why that was a bad move.",
     "citation": "Codex: Black Templars(4th edition)",
     "topics": [
@@ -279,32 +123,10 @@ quotes = [
     ]
   },
   {
-    "text": "Vigilance is the brother of truth.",
-    "citation": "Codex: Necrons(3rd edition)",
-    "topics": [
-      "VIGILANCE",
-      "TRUTH"
-    ]
-  },
-  {
     "text": "Vigilance is my shield, Simpsons Quotes are my sword.",
     "citation": "Codex: Necrons(3rd edition)",
     "topics": [
       "TIMS MANTRA"
-    ]
-  },
-  {
-    "text": "You are not required to think, only to act.",
-    "citation": "Warhammer 40000(4th edition)",
-    "topics": [
-      "THOUGHT"
-    ]
-  },
-  {
-    "text": "A broad mind lacks focus.",
-    "citation": "Warhammer 40000(4th edition)",
-    "topics": [
-      "OPEN MIND"
     ]
   },
   {
@@ -322,13 +144,6 @@ quotes = [
     ]
   },
   {
-    "text": "A questioning servant is more dangerous than an ignorant heretic.",
-    "citation": "Warhammer 40000(4th edition)",
-    "topics": [
-      "QUESTION"
-    ]
-  },
-  {
     "text": "Accept your lot! Don't accept Jacks advice during a boardgame!",
     "citation": "Warhammer 40000(4th edition)",
     "topics": [
@@ -343,32 +158,10 @@ quotes = [
     ]
   },
   {
-    "text": "An empty mind is a loyal mind.",
-    "citation": "Codex: Craftworld Eldar(3rd edition)",
-    "topics": [
-      "INTELLIGENCE",
-      "LOYALTY"
-    ]
-  },
-  {
-    "text": "Knowledge is power, hide it well. Perhaps too well",
+    "text": "Knowledge is power, hide it well. Perhaps too well.",
     "citation": "Warhammer 40000(3rd edition)",
     "topics": [
       "KNOWLEDGE"
-    ]
-  },
-  {
-    "text": "Not even the dead know the end of war.",
-    "citation": "Codex: Craftworld Eldar(3rd edition)",
-    "topics": [
-      "WAR"
-    ]
-  },
-  {
-    "text": "Only in death does duty end. Only in group shame does we're going to the moon end.",
-    "citation": "Warhammer 40000(3rd edition)",
-    "topics": [
-      "DUTY"
     ]
   },
   {
@@ -376,13 +169,6 @@ quotes = [
     "citation": "Codex: Space Marines(4th edition)",
     "topics": [
       "INSANITY"
-    ]
-  },
-  {
-    "text": "Peace is Hell.",
-    "citation": "Warhammer 40000: Rogue Trader",
-    "topics": [
-      "PEACE"
     ]
   },
   {
@@ -400,32 +186,10 @@ quotes = [
     ]
   },
   {
-    "text": "True happiness stems only from duty or winning at Viticulture.",
-    "citation": "Warhammer 40000(6th edition)",
-    "topics": [
-      "HAPPINESS",
-      "DUTY"
-    ]
-  },
-  {
     "text": "It is better for a man to be afraid than happy.",
     "citation": "Warhammer 40000(6th edition)",
     "topics": [
       "JOHNS WORK PHILOSOPHY"
-    ]
-  },
-  {
-    "text": "Viticulture is a good game.",
-    "citation": "Warhammer 40000(6th edition)",
-    "topics": [
-      "THINGS JACK SAID A MILLION TIMES"
-    ]
-  },
-  {
-    "text": "To search for answers is to beat a path to damnation.",
-    "citation": "Warhammer 40000(6th edition)",
-    "topics": [
-      "KNOWLEDGE"
     ]
   },
   {
@@ -441,35 +205,6 @@ quotes = [
     "topics": [
       "CLOSED MIND",
       "SEDITION"
-    ]
-  },
-  {
-    "text": "Knowledge is power; Power corrupts.",
-    "citation": "Warhammer 40000(6th edition)",
-    "topics": [
-      "KNOWLEDGE"
-    ]
-  },
-  {
-    "text": "Better crippled in body than corrupt in mind.",
-    "citation": "Warhammer 40000(6th edition)",
-    "topics": [
-      "CORRUPTION"
-    ]
-  },
-  {
-    "text": "To relinquish contempt is capitulation.",
-    "citation": "Warhammer 40000(6th edition)",
-    "topics": [
-      "CONTEMPT"
-    ]
-  },
-  {
-    "text": "Do not let fear conquer hate!",
-    "citation": "Warhammer 40000(6th edition)",
-    "topics": [
-      "FEAR",
-      "HATE"
     ]
   },
   {
@@ -787,7 +522,107 @@ quotes = [
       "BETRAYAL",
       "POOR HOLIDAY CHOICES"
     ]
-  }
+  },
+  {
+  "text": "What is best in life? To roll dice, see your miniatures claim victory on the battlefield, and hear the lamentations of your opponent.",
+  "citation": "October 2024 Update",
+  "topics": ["ACHIEVEMENT, GLORY"]
+},
+{
+  "text": "You are the Emperor's Chosen. See His almighty fury in the blades of the chainsord. Hear His great anger in the roar of the gernade. Feel His undying strength in the protection of your mother, the nurse. Model yourself in His perfect image with your Juggalo makeup.",
+  "citation": "October 2024 Update",
+  "topics": ["INNOVATION, SCHEMATICS, ANGORN S SON"]
+},
+{
+  "text": "It is the most pure of folly to play Paper in a Rock Meta.",
+  "citation": "October 2024 Update",
+  "topics": ["FUTILITY, IGNORANCE, RPS TIPS, SQUASH MEMES"]
+},
+{
+  "text": "Only the most willfully ignorant would play Scissors in a Rock Meta.",
+  "citation": "October 2024 Update",
+  "topics": ["FUTILITY, IGNORANCE, RPS TIPS, SQUASH MEMES"]
+},
+{
+  "text": "A faithful servant of the Emperor knows that it is madness to play Rock in a Rock Meta.",
+  "citation": "October 2024 Update",
+  "topics": ["SERVITUDE, MADNESS, RPS TIPS, SQUASH MEMES"]
+},
+{
+  "text": "And verily, he did roll a mighty six - while I, dashed upon the will of the fates, merely rolled a one.",
+  "citation": "October 2024 Update",
+  "topics": ["INSIDE VOICE"]
+},
+{
+  "text": "Think not of the fragility of faith and purity, but of the glory of the Roman Empire at least once a day.",
+  "citation": "October 2024 Update",
+  "topics": ["FAITH, PURITY, HAVE YOU THOUGHT OF THE ROMAN EMPIRE TODAY?"]
+},
+{
+  "text": "He who lives for nothing is nothing. He who supplies discounted Dulux spray is a hero.",
+  "citation": "October 2024 Update",
+  "topics": ["HEROISM"]
+},
+{
+  "text": "A single thought of refusing a batchall can blight a lifetime of faithful duty.",
+  "citation": "October 2024 Update",
+  "topics": ["DUTY"]
+},
+{
+  "text": "The galaxy is the Emperor s, and anyone or anything who refuses to drill out barrels in His name is an enemy who must be destroyed.",
+  "citation": "October 2024 Update",
+  "topics": ["COMPLIANCE"]
+},
+{
+  "text": "Even a man who has nothing can still offer his bare toes for Aaron to suckle on.",
+  "citation": "October 2024 Update",
+  "topics": ["DEDICATION",  "LUST" ]
+},
+{
+  "text": "A wise man learns from the death of others. A wiser man learns to check behind himself before making jokes about different racial groups.",
+  "citation": "October 2024 Update",
+  "topics": ["IMMENSE REGRET",  "PERPETUAL CRINGE" ]
+},
+{
+  "text": "Let faith protect your mind, and metal claws your flesh.",
+  "citation": "October 2024 Update",
+  "topics": ["WOLVARINE"]
+},
+{
+  "text": "Only the dead know the end of Luke running a joke into the ground.",
+  "citation": "October 2024 Update",
+  "topics": ["RELENTLESSNESS"]
+},
+{
+  "text": "It is better to die for the CHOMP than live for yourself.",
+  "citation": "October 2024 Update",
+  "topics": ["CHOMP"]
+},
+{
+  "text": "Appreciation of art is a myth we do not need to understand in order to hate.",
+  "citation": "October 2024 Update",
+  "topics": ["HATRED", "BELIEF" ]
+},
+{
+  "text": "In the Emperor s name, let me do a two-handed return!",
+  "citation": "October 2024 Update",
+  "topics": ["IMPERIAL POWER, SQUASH MEMES"]
+},
+{
+  "text": "Facts are chains that bind perception and fetter truth. For a man can remake the world through spin if he has a dream and no facts to cloud his mind.",
+  "citation": "October 2024 Update",
+  "topics": ["SPINZONE"]
+},
+{
+  "text": "Sometimes the good must perish so that the rest survive. The lot of courage is to be sacrificed upon the altar of descending on a dark path towards working in IT.",
+  "citation": "October 2024 Update",
+  "topics": ["AARON S CAREER JOURNEY"]
+},
+{
+  "text": "There is no such thing as innocence, only various degrees of spinzone.",
+  "citation": "October 2024 Update",
+  "topics": ["DIZZINESS"]
+}
 ]
 
 
