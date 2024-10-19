@@ -7,6 +7,10 @@ from birthdays import get_birthdays
 from datetime import datetime as dt
 import pytz
 from dateutil.relativedelta import relativedelta
+from discord import Intents
+
+intents = Intents.default()
+intents.message_content = True
 
 
 ENV=os.getenv("ENV","prod")
@@ -45,7 +49,7 @@ async def declare():
         await dctx.send("WARNING: TODAY IS SFTC, EMPEROR BE WITH US ALL")
       await handle_birthdays(dctx)
 
-bot = commands.Bot(command_prefix="!40kbot ", case_insensitive=True)
+bot = commands.Bot(command_prefix="!40kbot ", case_insensitive=True, intents=intents)
 
 @bot.event
 async def on_ready():
