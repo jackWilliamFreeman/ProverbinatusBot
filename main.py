@@ -30,7 +30,8 @@ async def declare():
     quote = get_quote()
     now=dt.now(tz)
     d1 = dt(2024,11,1,9,0,0,0,tz)
-    if now.hour == 3:
+    #if now.hour == 3:
+    if 3 == 3:
       embed= discord.Embed(title="+++THOUGHT FOR THE DAY+++", type='rich', color=discord.Color.red())
       embed.set_author(name="Office of the Inquisition (Ordo Proverbinatus)",icon_url="https://www.belloflostsouls.net/wp-content/uploads/2016/09/Inquisition.jpg")
       embed.add_field(inline=False, name=f"{quote['text']}", value= '')
@@ -40,9 +41,10 @@ async def declare():
       await dctx.send(embed=embed)
       d1 = dt(2024,11,1,9,0,0,0,tz)
       length = d1 - now
+      lines = ['' ,'MIRTH IN SUCH QUANTITIES IS BORDERLINE HERETICAL, PRACTICE RESTRAINT! REMEMBER THE CANTICALS OF MODESTY', 'HIDE THE IMPERIAL ART, THE GREAT DEFILER IAN APPROACHES', 'ENSURE YOU HAVE PACKED ENOUGH COPIES OF HEROQUEST',  'DO YOU HAVE ENOUGH RICE COOKERS?', 'ENSURE YOU HAVE PLANNED AN OPTIMAL BED SELECTION STRATEGY', 'ENSURE GIN PROVISIONS ARE ADEQUATE FOR EXPECTED (AND SANCTIONED) FESTIVITIES']
       if length.days > 1:
-        await dctx.send(f"WARNING: {length.days} DAYS UNTIL SFTC. LOYAL CITIZENS, PREPARE YOURSELF FOR MIRTH")
-        await dctx.send(f"<@321580905544286209> THIS IS A DAILY REMINDER FOR YOU TO SEND A DAILY REMINDER FOR <@368751796945944577> TO SEND A DAILY REMINDER TO <@550616372120387585> TO BRING GINS OR SOMETHING. EMPEROR HELP ME I USED TO BE A SCHOLAR....")
+        day = length.days - 1
+        await dctx.send(f"EMPEROR BE WITH US: {length.days} DAYS UNTIL SFTC. {lines[day]}")
       if length.days == 1:
         await dctx.send("WARNING: TOMORROW IS SFTC")
       if length.days == 0:
