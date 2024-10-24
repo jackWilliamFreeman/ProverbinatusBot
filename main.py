@@ -30,8 +30,7 @@ async def declare():
     quote = get_quote()
     now=dt.now(tz)
     d1 = dt(2024,11,1,9,0,0,0,tz)
-    #if now.hour == 3:
-    if 3 == 3:
+    if now.hour == 3:
       embed= discord.Embed(title="+++THOUGHT FOR THE DAY+++", type='rich', color=discord.Color.red())
       embed.set_author(name="Office of the Inquisition (Ordo Proverbinatus)",icon_url="https://www.belloflostsouls.net/wp-content/uploads/2016/09/Inquisition.jpg")
       embed.add_field(inline=False, name=f"{quote['text']}", value= '')
