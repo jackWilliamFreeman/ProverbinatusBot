@@ -40,7 +40,7 @@ async def declare():
       await dctx.send(embed=embed)
       d1 = dt(2024,11,1,9,0,0,0,tz)
       length = d1 - now
-      lines = ['' ,'MIRTH IN SUCH QUANTITIES IS BORDERLINE HERETICAL, PRACTICE RESTRAINT! REMEMBER THE CANTICALS OF MODESTY', 'HIDE THE IMPERIAL ART, THE GREAT DEFILER IAN APPROACHES', 'ENSURE YOU HAVE PACKED ENOUGH COPIES OF HEROQUEST',  'DO YOU HAVE ENOUGH RICE COOKERS?', 'ENSURE YOU HAVE PLANNED AN OPTIMAL BED SELECTION STRATEGY', 'ENSURE GIN PROVISIONS ARE ADEQUATE FOR EXPECTED (AND SANCTIONED) FESTIVITIES']
+      lines = ['' ,'MIRTH IN SUCH QUANTITIES IS BORDERLINE HERETICAL, PRACTICE RESTRAINT! REMEMBER THE CANTICLES OF MODESTY', 'HIDE THE IMPERIAL ART, IAN: THE GREAT DEFILER APPROACHES', 'ENSURE YOU HAVE PACKED ENOUGH COPIES OF HEROQUEST',  'DO YOU HAVE ENOUGH RICE COOKERS?', 'ENSURE YOU HAVE PLANNED AN OPTIMAL BED SELECTION STRATEGY', 'ENSURE GIN PROVISIONS ARE ADEQUATE FOR EXPECTED (AND SANCTIONED) FESTIVITIES']
       if length.days > 1:
         day = length.days - 1
         await dctx.send(f"EMPEROR BE WITH US: {length.days} DAYS UNTIL SFTC. {lines[day]}")
@@ -59,7 +59,7 @@ async def on_ready():
     print(f'{bot.user.name} has connected to discord!')
     await bot.change_presence(activity = discord.Activity(
                           type = discord.ActivityType.watching, 
-                          name = 'steamed hams netflix true crime docos'))
+                          name = 'the clock tick down to SFTCX'))
     print("heresy detected. starting proverbinatus")
     declare.start()
 
